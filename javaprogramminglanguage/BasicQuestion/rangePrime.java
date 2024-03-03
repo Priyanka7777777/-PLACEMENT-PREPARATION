@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RangePrime {
+public class rangePrime {
     public static boolean isPrime(int num) {
         boolean isprime=true;
         if (num < 2) {
